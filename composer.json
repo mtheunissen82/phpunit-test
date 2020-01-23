@@ -1,0 +1,14 @@
+{
+  "name": "marc/phpunit-test",
+  "description": "PHPUnit test project for Stefan",
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^8.5"
+  }
+}
